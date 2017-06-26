@@ -6,7 +6,7 @@ projects[drupal][version] = "6.38"
 
 libraries[jquery.ui][directory_name] = "jquery.ui"
 libraries[jquery.ui][download][type] = "get"
-libraries[jquery.ui][download][url] = "http://jquery-ui.googlecode.com/files/jquery-ui-1.8.17.zip"
+libraries[jquery.ui][download][url] = "http://jqueryui.com/resources/download/jquery-ui-1.12.1.zip"
 libraries[tinymce][directory_name] = "tinymce"
 libraries[tinymce][download][type] = "svn"
 libraries[tinymce][download][url] = "https://svn.library.cornell.edu/tinymce-clone/trunk"
